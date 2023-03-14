@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:BDE3FC,100:A9CDFC&fontColor=ffffff&height=300&section=header&text=Yujin%20Seo&fontSize=60&&fontAlignY=35)
 <!--
 **eugenieseo16/eugenieseo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
