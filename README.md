@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:BDE3FC,100:A9CDFC&fontColor=ffffff&height=200&section=header&text=Yujin%20Seo&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFFADB&fontColor=373d49&ededed&height=200&section=header&text=Yujin%20Seo&fontSize=60)
 
 <h3 align="center">Hi there 👋 I'm Yujin</h3>
 
@@ -10,8 +10,8 @@
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-
 </p>
+<br>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
