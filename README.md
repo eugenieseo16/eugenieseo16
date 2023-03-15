@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:BDE3FC,100:A9CDFC&fontColor=ffffff&height=300&section=header&text=Yujin%20Seo&fontSize=60&&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:BDE3FC,100:A9CDFC&fontColor=ffffff&height=300&section=header&text=Yujin%20Seo&fontSize=60)
 
 <h3 align="center">Hi there 👋 I'm Yujin</h3>
 
