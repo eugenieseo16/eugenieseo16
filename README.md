@@ -22,6 +22,7 @@
 </p>
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenieseo16)](https://solved.ac/eugenieseo16/)
+
 <!--
 **eugenieseo16/eugenieseo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
