@@ -22,8 +22,8 @@
   <a href="mailto:eugenieseo160@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=black&link=eugenieseo16@gmail.com"/></a>
 </p>
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenieseo16)](https://solved.ac/eugenieseo16)
-
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenieseo16)](https://solved.ac/eugenieseo16)
+ -->
 
 <!--
 **eugenieseo16/eugenieseo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
