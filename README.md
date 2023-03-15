@@ -11,7 +11,8 @@
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
 <br>
 
@@ -21,7 +22,8 @@
   <a href="mailto:eugenieseo160@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=black&link=eugenieseo16@gmail.com"/></a>
 </p>
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenieseo16)](https://solved.ac/eugenieseo16/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenieseo16)](https://solved.ac/eugenieseo16)
+
 
 <!--
 **eugenieseo16/eugenieseo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
