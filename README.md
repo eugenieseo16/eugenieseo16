@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFFADB&fontColor=373d49&ededed&height=200&section=header&text=Yujin%20Seo&fontSize=60)
 
-<h3 align="center">Hi there 👋 I'm Yujin</h3>
+<h3 align="center">Hi there 👋 <br> I'm Yujin</h3><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
