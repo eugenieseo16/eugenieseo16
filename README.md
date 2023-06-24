@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eugenieseo16/velog-readme-stats/redirect?name=eugenieseo16&tag=github">
+  <a href="https://velog.io/@eugenieseo16">
     <img src="https://velog-readme-stats.vercel.app/api?name=eugenieseo16" alt="Velog's GitHub stats" />
   </a>
 </p>
