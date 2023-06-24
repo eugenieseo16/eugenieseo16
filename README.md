@@ -1,4 +1,4 @@
-<img align="center" width='100%' src="" />
+<img align="center" width='100%' src="https://github.com/eugenieseo16/eugenieseo16/blob/master/banner.JPG?raw=true" />
 <br/>
 
 <h3 align="center">Hi there 👋 I'm Yujin!</h3>
