@@ -51,7 +51,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenieseo16" alt="Solved.ac Profile" />
   </a>
 
-  <a href="https://github.com/eugenieseo16/github-readme-stats">
+  <a href="https://github.com/eugenieseo16/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenieseo16&layout=compact&theme=tokyonight&show_icons=true" alt="Top Langs" />
   </a>
 </div>
