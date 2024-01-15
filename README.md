@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello there! 👋 I'm Yujin!;Welcome to my Github!;&color=f28465&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Hello there! 👋 I'm Yujin!">
 </h2>
 
-<h4 align="center">🎓 I successfully completed the SSAFY 8th program (Samsung Software Academy for Youth)</h4>
-<h4 align="center">💪 As a passionate developer, I am constantly dedicated to improving and growing in my field.</h4>
-<h4 align="center">🌱 I find great joy in learning and embracing new challenges,<br/>  Please look forward to my personal and professional development.</h4>
+<h4 align="center">🎓 ~ 2022.02 graduate university</h4>
+<h4 align="center">🌱 ~ 2023.06 successfully completed the SSAFY 8th (Samsung Software Academy for Youth)</h4>
+
 <h4 align="center">Thank you!</h4>
 
 <br>
