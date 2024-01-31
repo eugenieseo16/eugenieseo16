@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img width='50%' src="https://github.com/eugenieseo16/eugenieseo16/assets/109324479/652a11e3-86a9-44cb-8e56-942dce7d0838" />
+    <img width='100%' src="https://github.com/eugenieseo16/eugenieseo16/assets/109324479/652a11e3-86a9-44cb-8e56-942dce7d0838" />
 </div>
 
 
