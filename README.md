@@ -1,9 +1,11 @@
-<img align="center" width='100%' src="https://github.com/eugenieseo16/eugenieseo16/blob/master/banner.JPG?raw=true" />
-<br/>
+<div style="text-align: center;">
+    <img width='50%' src="https://github.com/eugenieseo16/eugenieseo16/assets/109324479/652a11e3-86a9-44cb-8e56-942dce7d0838" />
+</div>
 
-<h2 align="center">
+
+<!-- <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello there! 👋 I'm Yujin!;Welcome to my Github!;&color=f28465&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Hello there! 👋 I'm Yujin!">
-</h2>
+</h2> -->
 
 <br>
 
